@@ -7,5 +7,5 @@ public class Test {
 	int d;
 	
 	public void me1(){}
-
+	public void me2(){}
 }
